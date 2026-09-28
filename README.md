@@ -47,7 +47,6 @@ I'm an Information Technology undergraduate who enjoys designing and building **
 | 🛒 **E-commerce System** | Full-stack online store with product management, cart, and order flow. |
 | 🤖 **AI Chatbot (WhatsApp)** | AI-powered chatbot integrated with WhatsApp for automated customer conversations. |
 | 💊 **Pharmacy Management System** | Inventory, sales, and record management for pharmacy operations. |
-| 🚌 **Bus / POS Management System** | Ticketing and point-of-sale system for transport operations. |
 
 > 📌 *Tip: link each project to its repository, e.g. `[E-commerce System](https://github.com/YOUR_USERNAME/repo-name)`.*
 
